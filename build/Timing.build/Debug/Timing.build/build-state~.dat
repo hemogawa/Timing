@@ -1,0 +1,196 @@
+TTiming
+v7
+r0
+t329940429.146924
+cCheck dependencies
+cProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Info.plist Timing-Info.plist
+cCopyStringsFile /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kikugawamariko/XCodeProjects/Timing/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Timing_Prefix-bhwmzmrdohrfxgfylfgxbixzpqnu/Timing_Prefix.pch.gch Timing_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/Timing/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/TimingAppDelegate.o /Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/MacOS/Timing normal x86_64
+cTouch /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DB7BB0E00000000000000EE
+t1303886606
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kikugawamariko/XCodeProjects/Timing/English.lproj/InfoPlist.strings
+c000000004DFA4638000000000000002D
+t1308247608
+s45
+
+N/Users/kikugawamariko/XCodeProjects/Timing/English.lproj/MainMenu.xib
+c000000004DFA4638000000000002BB60
+t1308247608
+s179040
+
+N/Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.h
+c000000004DFA46380000000000000153
+t1308247608
+s339
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.m
+c000000004DFA46380000000000000187
+t1308247608
+s391
+i"TimingAppDelegate.h"
+
+N/Users/kikugawamariko/XCodeProjects/Timing/Timing_Prefix.pch
+c000000004DFA4638000000000000008F
+t1308247608
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app
+t1308247629
+s102
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Info.plist
+t1308247624
+s1281
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/MacOS/Timing
+t1308247629
+s14440
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/PkgInfo
+t1308247624
+s8
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1308247624
+s92
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Resources/English.lproj/MainMenu.nib
+t1308247625
+s34367
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/Timing.LinkFileList
+c000000004DFA464800000000000000E9
+t1308247624
+s233
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/TimingAppDelegate.o
+t1308247629
+s21096
+
+N/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/main.o
+t1308247629
+s4948
+
+N/Users/kikugawamariko/XCodeProjects/Timing/main.m
+c000000004DFA464700000000000000EA
+t1308247623
+s234
+i<Cocoa/Cocoa.h>
+
+N/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Timing_Prefix-bhwmzmrdohrfxgfylfgxbixzpqnu/Timing_Prefix.pch.gch
+t1308247628
+s54306576
+
+NTiming-Info.plist
+c000000004DFA463800000000000003EA
+t1308247608
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329940424#329940424#0(0"0(0#1#0"2513076880#0"0#
+
+CCompileC build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/TimingAppDelegate.o /Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329940428.827761
+e329940429.011887
+r1
+xCompileC
+xbuild/Timing.build/Debug/Timing.build/Objects-normal/x86_64/TimingAppDelegate.o
+x/Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.m329940428#329940429#0(0"0(0#0#62"/Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.m2513076880#1500"    cd /Users/kikugawamariko/XCodeProjects/Timing    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/Timing/build/Debug -I/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Timing_Prefix-bhwmzmrdohrfxgfylfgxbixzpqnu/Timing_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/Timing/TimingAppDelegate.m -o /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/TimingAppDelegate.o0#
+
+CCompileC build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/Timing/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329940428.767678
+e329940429.022134
+r1
+xCompileC
+xbuild/Timing.build/Debug/Timing.build/Objects-normal/x86_64/main.o
+x/Users/kikugawamariko/XCodeProjects/Timing/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/kikugawamariko/XCodeProjects/Timing/main.m329940428#329940429#0(0"0(0#0#49"/Users/kikugawamariko/XCodeProjects/Timing/main.m2513076880#1474"    cd /Users/kikugawamariko/XCodeProjects/Timing    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/Timing/build/Debug -I/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Timing_Prefix-bhwmzmrdohrfxgfylfgxbixzpqnu/Timing_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/Timing/main.m -o /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kikugawamariko/XCodeProjects/Timing/English.lproj/MainMenu.xib
+s329940424.857368
+e329940425.182118
+r1
+xCompileXIB
+x/Users/kikugawamariko/XCodeProjects/Timing/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib329940424#329940425#0(0"0(0#0#69"/Users/kikugawamariko/XCodeProjects/Timing/English.lproj/MainMenu.xib2513076880#375"    cd /Users/kikugawamariko/XCodeProjects/Timing    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kikugawamariko/XCodeProjects/Timing/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s329940424.853163
+e329940424.892324
+r1
+xCopyStringsFile
+x/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings329940424#329940424#0(0"0(0#0#74"/Users/kikugawamariko/XCodeProjects/Timing/English.lproj/InfoPlist.strings2513076880#372"    cd /Users/kikugawamariko/XCodeProjects/Timing    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/MacOS/Timing normal x86_64
+s329940429.022215
+e329940429.144056
+r1
+xLd
+x/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/MacOS/Timing
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/MacOS/Timing329940429#329940429#0(0"0(0#0#0"2513076880#557"    cd /Users/kikugawamariko/XCodeProjects/Timing    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kikugawamariko/XCodeProjects/Timing/build/Debug -F/Users/kikugawamariko/XCodeProjects/Timing/build/Debug -filelist /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Objects-normal/x86_64/Timing.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/MacOS/Timing0#
+
+CProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Info.plist Timing-Info.plist
+s329940424.841462
+e329940424.853066
+r1
+xProcessInfoPlistFile
+x/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Info.plist
+xTiming-Info.plist
+lSLF07#2@25"Process Timing-Info.plist329940424#329940424#0(0"0(0#0#60"/Users/kikugawamariko/XCodeProjects/Timing/Timing-Info.plist2513076880#319"    cd /Users/kikugawamariko/XCodeProjects/Timing    builtin-infoPlistUtility Timing-Info.plist -genpkginfo /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Timing_Prefix-bhwmzmrdohrfxgfylfgxbixzpqnu/Timing_Prefix.pch.gch Timing_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329940425.182237
+e329940428.767526
+r1
+xProcessPCH
+x/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Timing_Prefix-bhwmzmrdohrfxgfylfgxbixzpqnu/Timing_Prefix.pch.gch
+xTiming_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Timing_Prefix.pch329940425#329940428#0(0"0(0#0#60"/Users/kikugawamariko/XCodeProjects/Timing/Timing_Prefix.pch2513076880#1377"    cd /Users/kikugawamariko/XCodeProjects/Timing    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/Timing-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/Timing/build/Debug -I/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/Timing/build/Timing.build/Debug/Timing.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/Timing/Timing_Prefix.pch -o /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Timing_Prefix-bhwmzmrdohrfxgfylfgxbixzpqnu/Timing_Prefix.pch.gch0#
+
+CTouch /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app
+s329940429.144148
+e329940429.146889
+r1
+xTouch
+x/Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app
+lSLF07#2@71"Touch /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app329940429#329940429#0(0"0(0#0#0"2513076880#138"    cd /Users/kikugawamariko/XCodeProjects/Timing    /usr/bin/touch -c /Users/kikugawamariko/XCodeProjects/Timing/build/Debug/Timing.app0#
+
